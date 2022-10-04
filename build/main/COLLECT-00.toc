@@ -1,0 +1,1054 @@
+([('flash10_temperature_ui.exe',
+   'I:\\Flash10_qc_tools\\flash10_temperature_ui\\build\\main\\flash10_temperature_ui.exe',
+   'EXECUTABLE'),
+  ('python37.dll', 'I:\\Python3.7\\python37.dll', 'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll', 'I:\\Python3.7\\VCRUNTIME140.dll', 'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\VanDyke Software\\Clients\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qtga.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qpdf.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qpdf.dll',
+   'BINARY'),
+  ('libdfitpack.TEGBAAFTKZOKLOL4SK3USAE5LKSPU4JJ.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libdfitpack.TEGBAAFTKZOKLOL4SK3USAE5LKSPU4JJ.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libbanded5x.P5ZNKQPIS7MSMNBUOXZ4LUEJEUYBAANW.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libbanded5x.P5ZNKQPIS7MSMNBUOXZ4LUEJEUYBAANW.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qsvg.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('libcobyla2.RFDNNLTZGQ6OW2QDSG56I46SW3GSJA3J.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libcobyla2.RFDNNLTZGQ6OW2QDSG56I46SW3GSJA3J.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('liblsoda-f2.APVQWVHQTNJOH532JGX7S4HPQKK3JNSK.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\liblsoda-f2.APVQWVHQTNJOH532JGX7S4HPQKK3JNSK.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qwebp.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\styles\\qwindowsvistastyle.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('libbispeu.HPSBTY5F6WJ6KJ2NXCAHI76UA2TMTBUN.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libbispeu.HPSBTY5F6WJ6KJ2NXCAHI76UA2TMTBUN.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libblkdta00.MBGUWLIQ22UZOOMR5BFLQ4MSSN76MFS4.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libblkdta00.MBGUWLIQ22UZOOMR5BFLQ4MSSN76MFS4.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libopenblas.XWYDX2IKJW2NMTWSFYNGFUWKQU3LYTCZ.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libopenblas.XWYDX2IKJW2NMTWSFYNGFUWKQU3LYTCZ.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('msvcp140.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\scipy\\.libs\\msvcp140.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qgif.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('d3dcompiler_47.dll',
+   'I:\\optics module\\venv\\lib\\site-packages\\PySide2\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('libwrap_dum.C4IURQ6APHC6UZZL2W66OPTCFG5GMKHE.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libwrap_dum.C4IURQ6APHC6UZZL2W66OPTCFG5GMKHE.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libwrap_dum.RDS7NML22VUDUPT2EPBM6OXCUE2UBMMH.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libwrap_dum.RDS7NML22VUDUPT2EPBM6OXCUE2UBMMH.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qdirect2d.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\platforms\\qdirect2d.dll',
+   'BINARY'),
+  ('lib_test_fo.BMG7XNVQO3Y6HRRDJ5ONJJ54IWAYGMM4.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\lib_test_fo.BMG7XNVQO3Y6HRRDJ5ONJJ54IWAYGMM4.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libgetbreak.V33VUZMK5J7EF5RH55X4PRFFZC2ME3F6.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libgetbreak.V33VUZMK5J7EF5RH55X4PRFFZC2ME3F6.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qico.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('libd_odr.S654DKRSYJOG3DIOENOUXVQPM6R3WNI3.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libd_odr.S654DKRSYJOG3DIOENOUXVQPM6R3WNI3.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libEGL.dll',
+   'I:\\optics module\\venv\\lib\\site-packages\\PySide2\\libEGL.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qminimal.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'BINARY'),
+  ('libansari.54HGNEJBQIYZX5TZPCQGLNVIPFU6NWEX.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libansari.54HGNEJBQIYZX5TZPCQGLNVIPFU6NWEX.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qjpeg.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('libnnls.O7YW55GFEWHHLJHC7HW56M4N2SDMEE6J.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libnnls.O7YW55GFEWHHLJHC7HW56M4N2SDMEE6J.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('lib_blas_su.W3377BDLJARAFBE4KR2TS4BMAZPW2YQT.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\lib_blas_su.W3377BDLJARAFBE4KR2TS4BMAZPW2YQT.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('opengl32sw.dll',
+   'I:\\optics module\\venv\\lib\\site-packages\\PySide2\\opengl32sw.dll',
+   'BINARY'),
+  ('libspecfun.PSHBVSPF6FGISR7SJAEMBPSCFNGLE22A.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libspecfun.PSHBVSPF6FGISR7SJAEMBPSCFNGLE22A.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libvode-f2p.6EZYKBL2JYV7FAFNLCSYT2VXJDK6OSOD.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libvode-f2p.6EZYKBL2JYV7FAFNLCSYT2VXJDK6OSOD.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libdfft.ZG75HFE4IWZNJNQ5XFGO2XCA7JMMKRVZ.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libdfft.ZG75HFE4IWZNJNQ5XFGO2XCA7JMMKRVZ.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qtiff.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('libdcsrch.TWU2WQ2D2VRC5ZBASJTN75WEVOQEH4AA.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libdcsrch.TWU2WQ2D2VRC5ZBASJTN75WEVOQEH4AA.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qoffscreen.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('lib_arpack-.LVEE62XKJX7VAVCHBJBC7CWHVRKSMS3B.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\lib_arpack-.LVEE62XKJX7VAVCHBJBC7CWHVRKSMS3B.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libchkder.CIYBJUMHB77HZDWZ7O7OQB7IFLU42V62.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libchkder.CIYBJUMHB77HZDWZ7O7OQB7IFLU42V62.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libdqag.353FGEJNINHYNGAIOXTYMQLWIYNZOPID.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libdqag.353FGEJNINHYNGAIOXTYMQLWIYNZOPID.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libslsqp_op.RZ4TV2HJX5AEA5VT2ZSATTL3ELYSVEN7.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libslsqp_op.RZ4TV2HJX5AEA5VT2ZSATTL3ELYSVEN7.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\iconengines\\qsvgicon.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qwindows.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qwbmp.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('libdet.4HE24IS7ZSBGH5XOMO6JQFGVVZMBZOZS.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libdet.4HE24IS7ZSBGH5XOMO6JQFGVVZMBZOZS.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('lib_dop-f2p.UNBCT3QOODAZDDRA23HUBDJ3FTFRZTHL.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\lib_dop-f2p.UNBCT3QOODAZDDRA23HUBDJ3FTFRZTHL.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('liblbfgsb.ITOKIQ2LJBJAHAXQEEOCC23U5OKP5VZI.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\liblbfgsb.ITOKIQ2LJBJAHAXQEEOCC23U5OKP5VZI.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libmvndst.GKQU5PSQI2OLV63U7HAIIXHGTSU4V3XI.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libmvndst.GKQU5PSQI2OLV63U7HAIIXHGTSU4V3XI.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libGLESv2.dll',
+   'I:\\optics module\\venv\\lib\\site-packages\\PySide2\\libGLESv2.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\bearer\\qgenericbearer.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\bearer\\qgenericbearer.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qicns.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('libdgamln.O3OTGTB2HXKMAT5JYMT6OM22VFWKLQ7A.gfortran-win_amd64.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\.libs\\libdgamln.O3OTGTB2HXKMAT5JYMT6OM22VFWKLQ7A.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qwebgl.dll',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('_multiprocessing',
+   'I:\\Python3.7\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat', 'I:\\Python3.7\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('_ssl', 'I:\\Python3.7\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_hashlib', 'I:\\Python3.7\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('unicodedata', 'I:\\Python3.7\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('_decimal', 'I:\\Python3.7\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('_socket', 'I:\\Python3.7\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('select', 'I:\\Python3.7\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_lzma', 'I:\\Python3.7\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2', 'I:\\Python3.7\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('_ctypes', 'I:\\Python3.7\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('_queue', 'I:\\Python3.7\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('_elementtree', 'I:\\Python3.7\\DLLs\\_elementtree.pyd', 'EXTENSION'),
+  ('scipy._lib._ccallback_c',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\_lib\\_ccallback_c.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.signal._peak_finding_utils',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\signal\\_peak_finding_utils.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.special._ellip_harm_2',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\special\\_ellip_harm_2.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.csgraph._tools',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\csgraph\\_tools.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.csgraph._reordering',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\csgraph\\_reordering.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.csgraph._matching',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\csgraph\\_matching.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.csgraph._flow',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\csgraph\\_flow.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.csgraph._min_spanning_tree',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\csgraph\\_min_spanning_tree.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.csgraph._traversal',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\csgraph\\_traversal.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.csgraph._shortest_path',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\csgraph\\_shortest_path.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse._sparsetools',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\_sparsetools.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse._csparsetools',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\_csparsetools.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.core._multiarray_tests',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\core\\_multiarray_tests.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.core._multiarray_umath',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.linalg._umath_linalg',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.linalg.lapack_lite',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\linalg\\lapack_lite.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random.mtrand',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\random\\mtrand.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._sfc64',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\random\\_sfc64.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._philox',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\random\\_philox.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._pcg64',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\random\\_pcg64.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._mt19937',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\random\\_mt19937.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random.bit_generator',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\random\\bit_generator.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._generator',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\random\\_generator.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._bounded_integers',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\random\\_bounded_integers.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._common',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\random\\_common.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.interpolate.interpnd',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\interpolate\\interpnd.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.interpolate._rbfinterp_pythran',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\interpolate\\_rbfinterp_pythran.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._flapack',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\linalg\\_flapack.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._fblas',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\linalg\\_fblas.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.interpolate._ppoly',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\interpolate\\_ppoly.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.interpolate._bspl',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\interpolate\\_bspl.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.interpolate.dfitpack',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\interpolate\\dfitpack.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.interpolate._fitpack',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\interpolate\\_fitpack.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial.transform.rotation',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\spatial\\transform\\rotation.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial._distance_pybind',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\spatial\\_distance_pybind.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial._hausdorff',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\spatial\\_hausdorff.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial._distance_wrap',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\spatial\\_distance_wrap.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial._voronoi',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\spatial\\_voronoi.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial.qhull',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\spatial\\qhull.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial.ckdtree',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\spatial\\ckdtree.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._lsq.givens_elimination',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_lsq\\givens_elimination.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._lsap_module',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_lsap_module.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._interpolative',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\linalg\\_interpolative.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._bglu_dense',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_bglu_dense.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._highs._highs_constants',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_highs\\_highs_constants.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._highs._highs_wrapper',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_highs\\_highs_wrapper.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize.__nnls',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\__nnls.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._slsqp',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_slsqp.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._zeros',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_zeros.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._minpack',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_minpack.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._trlib._trlib',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_trlib\\_trlib.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._cobyla',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_cobyla.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize.moduleTNC',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\moduleTNC.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._lbfgsb',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_lbfgsb.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize.minpack2',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\minpack2.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._group_columns',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\optimize\\_group_columns.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.fft._pocketfft.pypocketfft',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\fft\\_pocketfft\\pypocketfft.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.fft._pocketfft_internal',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy._lib._uarray._uarray',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\_lib\\_uarray\\_uarray.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._solve_toeplitz',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\linalg\\_solve_toeplitz.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._flinalg',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\linalg\\_flinalg.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.linalg.eigen.arpack._arpack',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\arpack\\_arpack.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.linalg.dsolve._superlu',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\dsolve\\_superlu.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.linalg.isolve._iterative',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\_iterative.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg.cython_lapack',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\linalg\\cython_lapack.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg.cython_blas',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\linalg\\cython_blas.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._decomp_update',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\linalg\\_decomp_update.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._matfuncs_sqrtm_triu',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\linalg\\_matfuncs_sqrtm_triu.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.integrate.lsoda',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\integrate\\lsoda.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.integrate._dop',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\integrate\\_dop.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.integrate.vode',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\integrate\\vode.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.integrate._quadpack',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\integrate\\_quadpack.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.integrate._odepack',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\integrate\\_odepack.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.special._comb',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\special\\_comb.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.special.specfun',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\special\\specfun.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.special._ufuncs',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\special\\_ufuncs.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.special._ufuncs_cxx',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\special\\_ufuncs_cxx.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.stats._qmc_cy',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\stats\\_qmc_cy.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.stats._sobol',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\stats\\_sobol.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.stats.mvn',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\stats\\mvn.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.stats.statlib',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\stats\\statlib.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.ndimage._nd_image',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\ndimage\\_nd_image.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.ndimage._ni_label',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\ndimage\\_ni_label.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.stats.biasedurn',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\stats\\biasedurn.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.stats._boost.nbinom_ufunc',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\stats\\_boost\\nbinom_ufunc.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.stats._boost.binom_ufunc',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\stats\\_boost\\binom_ufunc.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.stats._boost.beta_ufunc',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\stats\\_boost\\beta_ufunc.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.stats._stats',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\stats\\_stats.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.special.cython_special',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\special\\cython_special.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy._lib._fpumode',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\_lib\\_fpumode.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy._lib.messagestream',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\_lib\\messagestream.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.signal._spectral',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\signal\\_spectral.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.signal._sosfilt',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\signal\\_sosfilt.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.signal.spline',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\signal\\spline.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.signal._upfirdn_apply',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\signal\\_upfirdn_apply.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.signal._max_len_seq_inner',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\signal\\_max_len_seq_inner.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.signal.sigtools',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\scipy\\signal\\sigtools.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('PySide2.QtCore',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\QtCore.pyd',
+   'EXTENSION'),
+  ('PySide2.QtWidgets',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PySide2.QtGui',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\QtGui.pyd',
+   'EXTENSION'),
+  ('PySide2.QtNetwork',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\QtNetwork.pyd',
+   'EXTENSION'),
+  ('shiboken2.shiboken2',
+   'i:\\optics module\\venv\\lib\\site-packages\\shiboken2\\shiboken2.pyd',
+   'EXTENSION'),
+  ('Qt5Core.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\Qt5Core.dll',
+   'BINARY'),
+  ('Qt5Gui.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\Qt5Gui.dll',
+   'BINARY'),
+  ('Qt5DBus.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\Qt5DBus.dll',
+   'BINARY'),
+  ('Qt5Pdf.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\Qt5Pdf.dll',
+   'BINARY'),
+  ('Qt5Svg.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\Qt5Svg.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('Qt5Widgets.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\Qt5Widgets.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll', 'C:\\Windows\\system32\\VCRUNTIME140_1.dll', 'BINARY'),
+  ('api-ms-win-crt-multibyte-l1-1-0.dll',
+   'C:\\Program Files\\VanDyke '
+   'Software\\Clients\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'BINARY'),
+  ('Qt5VirtualKeyboard.dll',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\Qt5VirtualKeyboard.dll',
+   'BINARY'),
+  ('Qt5Qml.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\Qt5Qml.dll',
+   'BINARY'),
+  ('Qt5Network.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\Qt5Network.dll',
+   'BINARY'),
+  ('Qt5WebSockets.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('Qt5Quick.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\Qt5Quick.dll',
+   'BINARY'),
+  ('libssl-1_1.dll', 'I:\\Python3.7\\DLLs\\libssl-1_1.dll', 'BINARY'),
+  ('libcrypto-1_1.dll', 'I:\\Python3.7\\DLLs\\libcrypto-1_1.dll', 'BINARY'),
+  ('pyside2.abi3.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\pyside2.abi3.dll',
+   'BINARY'),
+  ('python3.dll', 'I:\\Python3.7\\python3.dll', 'BINARY'),
+  ('shiboken2.abi3.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\shiboken2\\shiboken2.abi3.dll',
+   'BINARY'),
+  ('MSVCP140_1.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\MSVCP140_1.dll',
+   'BINARY'),
+  ('Qt5QmlModels.dll',
+   'i:\\optics module\\venv\\lib\\site-packages\\PySide2\\Qt5QmlModels.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'I:\\Flash10_qc_tools\\flash10_temperature_ui\\build\\main\\base_library.zip',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_tr.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ko.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_it.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_hu.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_he.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ca.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_de.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_pl.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_sk.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_zh_TW.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_da.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_lv.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_fi.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_uk.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_es.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ru.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_bg.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_en.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ja.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_cs.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ar.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_fr.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_gd.qm',
+   'I:\\optics '
+   'module\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\top_level.txt',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\top_level.txt',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\top_level.txt',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\LICENSE.txt',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\INSTALLER',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\RECORD',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\INSTALLER',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\WHEEL',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('pyinstaller-5.0.1.dist-info\\RECORD',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\pyinstaller-5.0.1.dist-info\\RECORD',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\METADATA',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\METADATA',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\RECORD',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\RECORD',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\INSTALLER',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\zip-safe',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\zip-safe',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\entry_points.txt',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\entry_points.txt',
+   'DATA'),
+  ('pyinstaller-5.0.1.dist-info\\REQUESTED',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\pyinstaller-5.0.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('pyinstaller-5.0.1.dist-info\\COPYING.txt',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\pyinstaller-5.0.1.dist-info\\COPYING.txt',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\LICENSE',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\LICENSE',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\WHEEL',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\WHEEL',
+   'DATA'),
+  ('pyinstaller-5.0.1.dist-info\\METADATA',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\pyinstaller-5.0.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\entry_points.txt',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\RECORD',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\RECORD',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\WHEEL',
+   'i:\\optics module\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\dependency_links.txt',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\dependency_links.txt',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\METADATA',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\METADATA',
+   'DATA'),
+  ('pyinstaller-5.0.1.dist-info\\INSTALLER',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\pyinstaller-5.0.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\METADATA',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('pyinstaller-5.0.1.dist-info\\entry_points.txt',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\pyinstaller-5.0.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('pyinstaller-5.0.1.dist-info\\WHEEL',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\pyinstaller-5.0.1.dist-info\\WHEEL',
+   'DATA'),
+  ('pyinstaller-5.0.1.dist-info\\top_level.txt',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\pyinstaller-5.0.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\LICENSE',
+   'i:\\optics '
+   'module\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('data\\qc_result_template.xlsx', 'data\\qc_result_template.xlsx', 'DATA')],)
